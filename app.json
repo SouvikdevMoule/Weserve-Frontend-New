@@ -1,0 +1,13 @@
+{
+  "name": "weserve-frontend",
+  "slug": "weserve-frontend",
+  "plugins": [
+        [
+          "expo-location",
+          {
+            "locationAlwaysAndWhenInUsePermission": "Allow Weserve to use your location."
+          }
+        ]
+      ]
+  
+}
